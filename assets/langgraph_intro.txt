@@ -1,0 +1,4 @@
+LangGraph is a library for building stateful, multi-agent applications with LLMs. 
+It extends the LangChain Expression Language (LCEL) by allowing for cycles and 
+persistence in your agent workflows. Unlike linear chains, LangGraph uses 
+nodes and edges to create complex, iterative processes.
